@@ -4,3 +4,6 @@
 [submodule "libs/lib-test-b_Yannis53"]
 	path = libs/lib-test-b_Yannis53
 	url = git@github.com:Yannis53/lib-test-b_Yannis53.git
+[submodule "libs/lib-test-b"]
+	path = libs/lib-test-b
+	url = git@github.com:TeeRa0ne/lib-test-b.git
