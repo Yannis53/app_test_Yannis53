@@ -1,0 +1,6 @@
+[submodule "libs/lib-test-a_Yannis53"]
+	path = libs/lib-test-a_Yannis53
+	url = git@github.com:Yannis53/lib-test-a_Yannis53.git
+[submodule "libs/lib-test-b_Yannis53"]
+	path = libs/lib-test-b_Yannis53
+	url = git@github.com:Yannis53/lib-test-b_Yannis53.git
